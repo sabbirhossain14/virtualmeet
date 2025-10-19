@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Routes, Route } from "react-router";
-import Home from './Home';
+import Home from './pages/home/Home';
 import CallRoom from './pages/callroom/CallRoom';
 
 
